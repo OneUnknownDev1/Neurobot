@@ -67,7 +67,7 @@ namespace UniVRM10
             {
                 m_instance = instance;
                 var runtime = m_instance.GetComponent<RuntimeGltfInstance>();
-                _initPose = runtime.InitialTransformStates.ToDictionary((kv) => kv.Key, (kv) => kv.Value);
+     
             }
 
             if (!instance.TryGetBoneTransform(HumanBodyBones.Head, out m_head))
