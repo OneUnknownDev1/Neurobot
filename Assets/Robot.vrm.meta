@@ -2,7 +2,57 @@ fileFormatVersion: 2
 guid: d8dfd65222e00534498da6750e9970d5
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neuro sama Hair
+    second: {fileID: 2100000, guid: 927e0509eb340de428e629ebc7005c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'body evil '
+    second: {fileID: 2100000, guid: 3fb459d93a8b41c479db53e2b22a0d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clothes evil
+    second: {fileID: 2100000, guid: 6aa15f2fbd2e00d4e9a52b18b5a552f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: expressions.001
+    second: {fileID: 2100000, guid: 267f20e380fd20d458731f1dc1fa754a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'secondary clothes evil '
+    second: {fileID: 2100000, guid: ab28ca0901d912a488a47032dd007f2c, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Neuro_clothes_VRC
+    second: {fileID: 2800000, guid: c61963b16daa7b9418fcb8b70ccd3ed4, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Neuro_hair_VRC
+    second: {fileID: 2800000, guid: 5dc6861f264f3444e94c5082ddafe3a6, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: body_neuro_VRC
+    second: {fileID: 2800000, guid: 067527ff91183ad4cb2cd4793e31afb1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: neuroexpresions
+    second: {fileID: 2800000, guid: f6c617405c7f43f4fbd27cf275a3a22a, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: secondary_clothes_neuro_VRC
+    second: {fileID: 2800000, guid: 0b786077b37131547881d8b60e74b5e4, type: 3}
   serializedVersion: 2
   userData: 
   assetBundleName: 
