@@ -7,17 +7,17 @@ ScriptedImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Neuro sama Hair
-    second: {fileID: 2100000, guid: 927e0509eb340de428e629ebc7005c7e, type: 2}
+    second: {fileID: 2100000, guid: fbd421aadd669f642a07c14e55cc7405, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'body evil '
-    second: {fileID: 2100000, guid: 3fb459d93a8b41c479db53e2b22a0d75, type: 2}
+    second: {fileID: 2100000, guid: 6cc1d0632f03d0b42b8d001dc599a553, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: clothes evil
-    second: {fileID: 2100000, guid: 6aa15f2fbd2e00d4e9a52b18b5a552f2, type: 2}
+    second: {fileID: 2100000, guid: 7c6e748b9aeeb5845ab3534f054af723, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -59,4 +59,4 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 11500000, guid: f66ead3390398f443aa127b741826ad9, type: 3}
   MigrateToVrm1: 1
-  RenderPipeline: 0
+  RenderPipeline: 1
